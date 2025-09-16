@@ -1,2 +1,17 @@
-# Memory-Mapping-Game
-A browser-based Memory Matching Game built with HTML, CSS &amp; JavaScript. Features multiple grid sizes, smooth flip animations, timer, and move counter. A fun project showcasing DOM manipulation, event handling, responsive UI, and game logic in JavaScript.
+# Memory matching game
+
+## <b> [Click here to Play the GAME!!](https://vectorstatic.github.io/Memory-Matching-Game/)
+
+
+This project is made using HTML,CSS &amp; JavaScript.
+
+It's a simple online memory matching game, which contains various levels.
+<br>
+Here are some snapshots from game.
+
+<img src="Images/snapshot1.PNG" width=95% alt="snapshots">
+<img src="Images/snapshot2.PNG" width=95% alt="snapshots">
+<img src="Images/snapshot3.PNG" width=95% alt="snapshots">
+<img src="Images/snapshot4.PNG" width=95% alt="snapshots">
+
+<br><br>
